@@ -7,7 +7,7 @@ Java实现阿里云的动态域名解析（利用阿里云api，需要有公网i
 
 #### 软件架构
 maven项目 
-从http://chaipip.com/网站上爬取本机的公网ip
+从 http://chaipip.com 网站上爬取本机的公网ip
 使用阿里云api 解析域名
 #### 安装教程
 
